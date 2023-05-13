@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsjustgavin
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning react.js and node.js.
 
 
 <!---
